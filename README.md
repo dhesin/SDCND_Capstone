@@ -1,8 +1,8 @@
 ### **Capstone Project Reflections**
 
-The final project of System Integration from Udacity SDCND program is a good opportunity to have a look at a complete system. Although it only comes with traffic light detection and control subsystem, one can expand it to include other subsystems given that you have an access to a simulator which responds to these subsystems. I say - accessing a simulator - since Udacity simulators so far came as separate ones each have different obstacles and responding to only one subsystem such as path planning with other vehicles, light detection, pid controller. A simulator that combines other vehicles and traffic light detection along with other obstacles such as person, bicycle would be useful to exercise more complex relations and/or dependencies between subsystems. 
+The final project of System Integration from Udacity SDCND program is a good opportunity to peek into a complete autonomous driving system. Although project covers only traffic light detection and control subsystem, one can expand it to include other subsystems given that you have an access to a simulator which responds to these subsystems. Because Udacity simulators in different projects were also different and each was responding to only one subsystem such as path planning with other vehicles, light detection, pid controller. A simulator that combines other vehicles and traffic light detection along with other obstacles such as person, bicycle would be useful to exercise more complex relations and/or dependencies between subsystems. 
 
-Recently, I had the chance to see and drive with Carla, Udacity's Self Driving Car, by downloading the code we have written. Since I didn't get to see the review and had no idea if the code run on simulator, I was a bit nervous but also excited. Luckily, Carla recognized the red light and stopped shortly after it started but was fast and furious once light turned green so the driver had to take over the control. Although it was very short time, running the code on Carla was exciting. 
+Recently, I had the chance to see and drive with Carla, Udacity's Self Driving Car, by downloading the code we have written. I was a bit nervous but also excited before Carla started to drive. Luckily, Carla recognized the red light and stopped at the red light but it was fast and furious once light turned green so the driver had to take over the control. Although it was very short time, running the code on Carla was exciting. 
 
 #### Traffic Light Detection and Recognition
 
@@ -17,7 +17,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 ### Native Installation
 
-* Be sure that your workstation is running Ubuntu 16.04 Xenial Xerus or Ubuntu 14.04 Trusty Tahir. [Ubuntu downloads can be found here](https://www.ubuntu.com/download/desktop).
+* Be sure that your workstation is running Ubuntu 16.04 Xenial Xerus or Ubuntu 14.04 Trusty Tahr. [Ubuntu downloads can be found here](https://www.ubuntu.com/download/desktop).
 * If using a Virtual Machine to install Ubuntu, use the following configuration as minimum:
   * 2 CPU
   * 2 GB system memory
